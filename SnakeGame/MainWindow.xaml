@@ -9,7 +9,7 @@
         Width="560"
         MinWidth="480"
         MinHeight="520"
-        Background="#FF2D2D30"
+        Background="Aqua"
         Focusable="True"
         WindowStartupLocation="CenterScreen">
     <Window.InputBindings>
